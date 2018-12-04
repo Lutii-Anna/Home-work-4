@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Київ",
+            "short_name" : "Київ",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "місто Київ",
+            "short_name" : "місто Київ",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Україна",
+            "short_name" : "UA",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02000",
+            "short_name" : "02000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eКиїв\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eУкраїна\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e02000\u003c/span\u003e",
+      "formatted_address" : "Київ, Україна, 02000",
+      "geometry" : {
+         "location" : {
+            "lat" : 50.4501,
+            "lng" : 30.5234
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 50.590798,
+               "lng" : 30.825941
+            },
+            "southwest" : {
+               "lat" : 50.213273,
+               "lng" : 30.2394401
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "e720ea1d8de0bf884832349361239d9eb1542685",
+      "name" : "Київ",
+      "photos" : [
+         {
+            "height" : 667,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101539596651640464951/photos\"\u003eЖеня Тарасов\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA7Npv1aYqhDGyyTPv2NC2EtIBfOWQOBW1iLBwno3e--0JP6L9jjCVPBxA49r-JuTRmh_TJMkdhuCcQmVohT20h3r-ft4D6IZysyuuounjRBWtA_Qkf5WgJpNVui3Yz8RlEhDdMXc6AT8x2HqUR9_LVVW6GhQ2DtMSKgJawJEyYr-GXMCLzZKzSg",
+            "width" : 1000
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAABUGbTjob55PEas7lxNtf7WYYUmbj8lIxAqIAg62oSakUIXlSEGH6KGaXfp6tOvXgRaUtx5AZtfZfpMxDOskZWo84_w5DwHPdge9MYMEzxmi1u1pas0rAohDQ-dwz8UHEEhDFDksg9PWkktuxxWaWRvm2GhQcGUKWYRxjupDsnxjtT24K3Z8Qvw",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAPMKue5hpexjZKcFBJBGKjRTu4aEmXAAcmGRhmtry2RY0kvWpyu8lJGZLeYinge2klQSq0DYVtQheWkc0tHY9EXYMJ3EC3nk7Tg3KYhpM2jRIIDwQIwOW8epbmNFbQbLfEhB7pz4fq0VAwmUw2_Pilna0GhTm22fT4IgbN_lMFoim5MiiBW-CHA",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAEfWNtA9821-H40709oq0Dp98L-DOcEHfIHrDMpEXX_csG0y6-KMnS2CGKui_Bj9PRWR5mql3WexlXv7PsdnZaZIOBnDfepKIN_yM8W1ctPj1UXksY8wdB06evCweRk_pEhCMqaJgBAvE94IIH88pGYDfGhSYxXkun_1UR7Nl5DRF93H3yikcdQ",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAgocXnwjufeEZG_JULU47fDly764X_eip25tEwSxEE05-wsuZQE_9662k_YOarKznIK1RSxqP2W37_mFlUgrNWJTpXlYK92Rjj55R60aN6AwQlIlBzT6bXN_bAfEtyzXKEhA0fWKvktyVKBJRd5LlMSvjGhSlQ6C_OwVHNfsoING34Qk3LXzoxQ",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAACYAdNxAYiujcTlh0010XbqN7QGpK1iu6QUgzE5JnEGPYgCve-LnEUL_E38iwBNzJh4MNMd9ljDQ2lSqoWauWIQMPol8GAdfyCMOXK1yKC7QOwjh3wC9IIdCxHTsVbscYEhDLOpNaudg5ReLJeTdE59XnGhSXg3-WkH8Z7sK5b2m3LKhQimHUXw",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAIyZezHsmgBCn68YVK6C61D0UOoAmJFkFJ_vbaDNPPE2snDh-bFBeQ7CEAhCmshLB0-2e3Dw6uVpvSmJVLxwz_9mSEDvGAzy1yvqtbrRAfd7I8Z297bXodpQNKhJ1kzITEhBWCIgwtvJssDQ_i3JCR1y9GhQziW8nKhI6Vowqs3LH1m8nkZDchw",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAlaXPcNm_jEGNT7a9XRh4r46Cg9KfyCtIZdDX6Yd2u6yntmSaimiRvjLkJztiE9g2WiYC_o-xlXqVWtwG8KinUV7EF3qZNbAb0DfzMjxhQiM8A-BamttrUKuzU_4vqhreEhAFCAY_7SzFMYPPUUyySYJxGhT6mmHcb6cG02fMY5Ib36dY3StwVA",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106264141370951356884/photos\"\u003eЗакарпатські новини\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAGhrdYEYXfb_MzQTxJAM9KH3N4h7DAN2jeWZ6p-HKfwoLO6BoqSNIhQ8bfdOlf2f08ENCh7wCnN5HG2TtpEcvjeurJeYQ97er0ow3zgSJg6XLOWZBWhegHddx8clSiSz4EhAUkt7uTQYVamHfr1JTPVPsGhTHz51OX6589biupgMtwygypj4wiQ",
+            "width" : 4032
+         },
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103774045695308584661/photos\"\u003ebunyamin kocakaya\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAeRSa-9o76ljn0hglcG145Yogol-VAQQzEhVLO3gSeyX2mcBQ-ocdSVqGvoiFaDWwuo_HA9Yk4vRheJwo2lYaOHSEQeOQ6lWdzUkfWl-IDPC-kWbf3ZT21jL3t5zPk9QqEhAHAVa83l52zXZFc8CNWnZIGhQPncfZliTjH6G23tlkVsdsuYfJtw",
+            "width" : 5504
+         }
+      ],
+      "place_id" : "ChIJBUVa4U7P1EAR_kYBF9IxSXY",
+      "reference" : "ChIJBUVa4U7P1EAR_kYBF9IxSXY",
+      "scope" : "GOOGLE",
+      "types" : [ "locality", "political" ],
+      "url" : "https://maps.google.com/?q=%D0%9A%D0%B8%D1%97%D0%B2,+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0,+02000&ftid=0x40d4cf4ee15a4505:0x764931d2170146fe",
+      "utc_offset" : 120,
+      "vicinity" : "Київ"
+   },
+   "status" : "OK"
+}
